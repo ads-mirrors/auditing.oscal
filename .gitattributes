@@ -32,3 +32,4 @@
 # other binary files
 *.png binary
 *.jpg binary
+.github/ merge=ours
