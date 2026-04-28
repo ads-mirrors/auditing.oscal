@@ -104,7 +104,7 @@ Pre-built converters are also distributed as part of a [release](https://github.
 
 #### Converting OSCAL XML Content to JSON
 
-The OSCAL project uses [Saxon-HE (Saxon Home Edition)](http://saxon.sourceforge.net/) to evaluate the XSLT templates supporting conversion of OSCAL XML and JSON [content](https://github.com/usnistgov/oscal-content) provided in this repository. *Saxon-HE* is an open source implementation of XSLT 3.0, XPath 2.0 and 3.1, and XQuery 3.1 supporting Java and .NET programming environments. These versions of *Saxon-HE* can be [downloaded directly](http://saxon.sourceforge.net/#F9.9HE) or the Java version can be [downloaded](https://search.maven.org/artifact/net.sf.saxon/Saxon-HE) using Apache Maven. Saxonica also offers Saxon PE and EE versions, which are commercial products with technical support and redistribution rights.
+The OSCAL project uses [Saxon-HE (Saxon Home Edition)](http://saxon.sourceforge.net/) to evaluate the XSLT templates supporting conversion of OSCAL XML and JSON [content](https://github.com/usnistgov/oscal-content) provided in this repository. *Saxon-HE* is an open source implementation of XSLT 3.0, XPath 2.0 and 3.1, and XQuery 3.1 supporting Java and .NET programming environments. These versions of *Saxon-HE* can be [downloaded directly](http://saxon.sourceforge.net/#F9.9HE) or the Java version can be [downloaded](https://search.maven.org/artifact/net.sf.saxon/Saxon-HE?smo=true) using Apache Maven. Saxonica also offers Saxon PE and EE versions, which are commercial products with technical support and redistribution rights.
 
 The OSCAL project uses *Saxon-HE* with Java version 8 or greater.
 
@@ -138,7 +138,7 @@ The configuration just provided will convert a JSON file given as a file referen
 
 #### Converting OSCAL JSON Content to XML
 
-The OSCAL project uses [Saxon-HE (Saxon Home Edition)](http://saxon.sourceforge.net/) to evaluate the XSLT templates supporting conversion of OSCAL XML and JSON [content](https://github.com/usnistgov/oscal-content) provided in this repository. *Saxon-HE* is an open source implementation of XSLT 3.0, XPath 2.0 and 3.1, and XQuery 3.1 supporting Java and .NET programming environments. These versions of *Saxon-HE* can be [downloaded directly](http://saxon.sourceforge.net/#F9.9HE) or the Java version can be [downloaded](https://search.maven.org/artifact/net.sf.saxon/Saxon-HE) using Apache Maven. Saxonica also offers Saxon PE and EE versions, which are commercial products with technical support and redistribution rights.
+The OSCAL project uses [Saxon-HE (Saxon Home Edition)](http://saxon.sourceforge.net/) to evaluate the XSLT templates supporting conversion of OSCAL XML and JSON [content](https://github.com/usnistgov/oscal-content) provided in this repository. *Saxon-HE* is an open source implementation of XSLT 3.0, XPath 2.0 and 3.1, and XQuery 3.1 supporting Java and .NET programming environments. These versions of *Saxon-HE* can be [downloaded directly](http://saxon.sourceforge.net/#F9.9HE) or the Java version can be [downloaded](https://search.maven.org/artifact/net.sf.saxon/Saxon-HE?smo=true) using Apache Maven. Saxonica also offers Saxon PE and EE versions, which are commercial products with technical support and redistribution rights.
 
 The OSCAL project uses *Saxon-HE* with Java version 8 or greater.
 
